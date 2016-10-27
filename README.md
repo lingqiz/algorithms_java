@@ -1,5 +1,5 @@
 # Algorithms / Data Structure Implementation for CS301 
-Sort
+Sort Algorithms 
   - ShellSort  
   - MergeSort  
   - QuickSort QuickSelection and variants   
